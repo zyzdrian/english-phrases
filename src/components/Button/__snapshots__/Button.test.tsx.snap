@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Button /> tests renders as secondary 1`] = `
+<button
+  class="sc-bdVaJa gkfBsR"
+/>
+`;
+
+exports[`<Button /> tests renders with children 1`] = `
+<button
+  class="sc-bdVaJa fnRXyy"
+>
+  Test text
+</button>
+`;
+
+exports[`<Button /> tests renders with prop disabled 1`] = `
+<button
+  class="sc-bdVaJa fnRXyy"
+  disabled=""
+/>
+`;
+
+exports[`<Button /> tests renders with prop disabled 2`] = `
+<button
+  class="sc-bdVaJa fnRXyy"
+/>
+`;
+
+exports[`<Button /> tests renders without props 1`] = `
+<button
+  class="sc-bdVaJa iVphkJ"
+/>
+`;

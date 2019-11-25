@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Portal /> tests should create portal with children 1`] = `null`;
+
+exports[`<Portal /> tests should remove children from portal 1`] = `null`;
+
+exports[`<Portal /> tests shouldn't remove parent element 1`] = `null`;

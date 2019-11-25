@@ -1,0 +1,86 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FlashcardsPage /> should return as a default phrases page 1`] = `
+<div
+  class="sc-kAzzGY cYQrAh"
+>
+  <div
+    class="sc-VigVT cybuwg"
+  >
+    <img
+      alt="menu"
+      class="sc-jTzLTM kMqZix"
+      data-testid="hamburger"
+      src="menu.svg"
+    />
+    <div
+      class="sc-fjdhpX jmFvEE"
+      data-testid="title"
+    >
+      Progress: 1/2
+    </div>
+    <span
+      style="width: 24px;"
+    />
+  </div>
+  <section
+    class="sc-chPdSV cfASoy"
+  >
+    <div
+      class="sc-bxivhb eRFxNn"
+    >
+      <div
+        class="sc-ifAKCX jJulbc"
+      >
+        <div
+          class="sc-EHOje kGzamQ"
+          data-testid="front"
+        >
+          <div
+            class="sc-htoDjs sc-dnqmqq bhPwuV"
+          >
+            <div
+              class="sc-iwsKbI dKyiiK"
+              data-testid="name"
+            >
+              Test phrase
+            </div>
+          </div>
+        </div>
+        <div
+          class="sc-bZQynM eprqWe"
+          data-testid="back"
+        >
+          <div
+            class="sc-htoDjs sc-gZMcBi bSzNzK"
+          >
+            <div
+              class="sc-gqjmRU eJtqmJ"
+              data-testid="meaning-0"
+            >
+              Meaning
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div
+    class="sc-bdVaJa kafHxm"
+    data-testid="bottom-menu"
+  >
+    <button
+      class="sc-bwzfXH gtkPbW"
+      data-testid="i-dont-know-button"
+    >
+      I don't know
+    </button>
+    <button
+      class="sc-bwzfXH gtkPbW"
+      data-testid="i-know-button"
+    >
+      I know
+    </button>
+  </div>
+</div>
+`;

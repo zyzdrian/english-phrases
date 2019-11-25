@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FlipCard /> tests should render as default 1`] = `
+<div
+  class="sc-VigVT AXRul"
+>
+  <img
+    alt="menu"
+    class="sc-jTzLTM kMqZix"
+    data-testid="hamburger"
+    src="menu.svg"
+  />
+  <div
+    class="sc-fjdhpX jmFvEE"
+    data-testid="title"
+  />
+  <span
+    style="width: 24px;"
+  />
+</div>
+`;
+
+exports[`<FlipCard /> tests should render title 1`] = `
+<div
+  class="sc-VigVT cybuwg"
+>
+  <img
+    alt="menu"
+    class="sc-jTzLTM kMqZix"
+    data-testid="hamburger"
+    src="menu.svg"
+  />
+  <div
+    class="sc-fjdhpX jmFvEE"
+    data-testid="title"
+  >
+    Test title
+  </div>
+  <span
+    style="width: 24px;"
+  />
+</div>
+`;

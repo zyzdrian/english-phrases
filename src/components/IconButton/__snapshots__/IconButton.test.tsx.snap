@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<IconButton /> tests renders as secondary 1`] = `
+<button
+  class="sc-bwzfXH dPTGrP sc-cSHVUG VRnhl"
+>
+  <img
+    alt="<-"
+    src="left-arrow.svg"
+  />
+</button>
+`;
+
+exports[`<IconButton /> tests renders with prop disabled 1`] = `
+<button
+  class="sc-bwzfXH gtkPbW sc-cSHVUG VRnhl"
+  disabled=""
+>
+  <img
+    alt="<-"
+    src="left-arrow.svg"
+  />
+</button>
+`;
+
+exports[`<IconButton /> tests renders with prop disabled 2`] = `
+<button
+  class="sc-bwzfXH gtkPbW sc-cSHVUG VRnhl"
+>
+  <img
+    alt="<-"
+    src="left-arrow.svg"
+  />
+</button>
+`;
+
+exports[`<IconButton /> tests renders without props 1`] = `
+<button
+  class="sc-bwzfXH cUmWVg sc-cSHVUG VRnhl"
+>
+  <img
+    alt="<-"
+    src="left-arrow.svg"
+  />
+</button>
+`;

@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Phrase /> tests should render as default phrase 1`] = `
+<div
+  class="sc-bxivhb eRFxNn"
+>
+  <div
+    class="sc-ifAKCX jJulbc"
+  >
+    <div
+      class="sc-EHOje kGzamQ"
+      data-testid="front"
+    >
+      <div
+        class="sc-VigVT sc-jTzLTM YRJrv"
+      >
+        <div
+          class="sc-fjdhpX jxWowm"
+          data-testid="name"
+        >
+          TEST
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bZQynM eprqWe"
+      data-testid="back"
+    >
+      <div
+        class="sc-VigVT sc-jzJRlG kpvmUn"
+      >
+        <div
+          class="sc-cSHVUG dhAxXz"
+          data-testid="meaning-0"
+        >
+          Test meaning
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Phrase /> tests should render multiple meanings 1`] = `
+<div
+  class="sc-bxivhb eRFxNn"
+>
+  <div
+    class="sc-ifAKCX jJulbc"
+  >
+    <div
+      class="sc-EHOje kGzamQ"
+      data-testid="front"
+    >
+      <div
+        class="sc-VigVT sc-jTzLTM YRJrv"
+      >
+        <div
+          class="sc-fjdhpX jxWowm"
+          data-testid="name"
+        >
+          TEST
+        </div>
+      </div>
+    </div>
+    <div
+      class="sc-bZQynM eprqWe"
+      data-testid="back"
+    >
+      <div
+        class="sc-VigVT sc-jzJRlG kpvmUn"
+      >
+        <div
+          class="sc-cSHVUG iwqkMh"
+          data-testid="meaning-0"
+        >
+          First meaning
+        </div>
+        <div
+          class="sc-cSHVUG iwqkMh"
+          data-testid="meaning-1"
+        >
+          Second meaning
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

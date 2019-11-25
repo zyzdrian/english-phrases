@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<BottomMenu /> tests renders clickable "I don't know" button 1`] = `
+<div
+  class="sc-cSHVUG fwdZJS"
+  data-testid="bottom-menu"
+>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="i-dont-know-button"
+  >
+    I don't know
+  </button>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="i-know-button"
+  >
+    I know
+  </button>
+</div>
+`;
+
+exports[`<BottomMenu /> tests renders clickable "I know" button 1`] = `
+<div
+  class="sc-cSHVUG fwdZJS"
+  data-testid="bottom-menu"
+>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="i-dont-know-button"
+  >
+    I don't know
+  </button>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="i-know-button"
+  >
+    I know
+  </button>
+</div>
+`;
+
+exports[`<BottomMenu /> tests renders other buttons when areButtonsDisabled = true 1`] = `
+<div
+  class="sc-cSHVUG fwdZJS"
+  data-testid="bottom-menu"
+>
+  <button
+    class="sc-bdVaJa fnRXyy sc-bZQynM igNFdC"
+    data-testid="undo-button"
+  >
+    <img
+      alt="<-"
+      src="left-arrow.svg"
+    />
+  </button>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="show-meaning-button"
+  >
+    SHOW MEANING
+  </button>
+</div>
+`;
+
+exports[`<BottomMenu /> tests renders other buttons when areButtonsDisabled = true and isRollbackDisabled = true 1`] = `
+<div
+  class="sc-cSHVUG fwdZJS"
+  data-testid="bottom-menu"
+>
+  <button
+    class="sc-bdVaJa fnRXyy sc-bZQynM igNFdC"
+    data-testid="undo-button"
+    disabled=""
+  >
+    <img
+      alt="<-"
+      src="left-arrow.svg"
+    />
+  </button>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="show-meaning-button"
+  >
+    SHOW MEANING
+  </button>
+</div>
+`;
+
+exports[`<BottomMenu /> tests renders without disabled props 1`] = `
+<div
+  class="sc-cSHVUG fwdZJS"
+  data-testid="bottom-menu"
+>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="i-dont-know-button"
+  >
+    I don't know
+  </button>
+  <button
+    class="sc-bdVaJa fnRXyy"
+    data-testid="i-know-button"
+  >
+    I know
+  </button>
+</div>
+`;
