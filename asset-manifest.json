@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/english-phrases/static/js/main.ed14fabd.chunk.js",
+    "main.js.map": "/english-phrases/static/js/main.ed14fabd.chunk.js.map",
+    "runtime-main.js": "/english-phrases/static/js/runtime-main.c4b99935.js",
+    "runtime-main.js.map": "/english-phrases/static/js/runtime-main.c4b99935.js.map",
+    "static/js/2.b3ce7c86.chunk.js": "/english-phrases/static/js/2.b3ce7c86.chunk.js",
+    "static/js/2.b3ce7c86.chunk.js.map": "/english-phrases/static/js/2.b3ce7c86.chunk.js.map",
+    "index.html": "/english-phrases/index.html",
+    "precache-manifest.d8c1d327832ee881f42e5827db3d5df2.js": "/english-phrases/precache-manifest.d8c1d327832ee881f42e5827db3d5df2.js",
+    "service-worker.js": "/english-phrases/service-worker.js",
+    "static/media/left-arrow.svg": "/english-phrases/static/media/left-arrow.c637926a.svg",
+    "static/media/menu.svg": "/english-phrases/static/media/menu.a6f6f4eb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4b99935.js",
+    "static/js/2.b3ce7c86.chunk.js",
+    "static/js/main.ed14fabd.chunk.js"
+  ]
+}

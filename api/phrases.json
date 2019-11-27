@@ -1,0 +1,1946 @@
+[
+  {
+    "id": "1",
+    "name": "TO ACT OUT",
+    "appropriateId": 0,
+    "chapterId": 0,
+    "meanings": [
+      "to define or explain something by using your body, gestures, arms and hands",
+      "to show strong emotion or to act with strong emotion"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "TO ADD UP TO",
+    "appropriateId": 0,
+    "chapterId": 0,
+    "meanings": [
+      "to equal or be a certain amount",
+      "something (information) to make sense or to seem correct"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "TO ASK OUT",
+    "appropriateId": 0,
+    "chapterId": 0,
+    "meanings": [
+      "to ask someone you're attracted to do something with you",
+      "to ask someone to be in a relationship with you, to be dating"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "TO ASK AROUND",
+    "appropriateId": 0,
+    "chapterId": 0,
+    "meanings": ["to ask several people a question to get the best response"]
+  },
+  {
+    "id": "5",
+    "name": "TO BACK OUT",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to decide not to do something that you previously said you would do, to renew, to change your mind"]
+  },
+  {
+    "id": "6",
+    "name": "TO BACK UP",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": [
+      "to move backwards",
+      "to support",
+      "to add evidence, support to something like research"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "TO BE AFTER SOMEONE / SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": [
+      "to be chasing someone",
+      "to be looking for someone or something"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "FOR SOMEONE TO BE ALONG",
+    "appropriateId": 1,
+    "chapterId": 1,
+    "meanings": ["to arrive, to be at place"]
+  },
+  {
+    "id": "9",
+    "name": "TO BE AWAY; TO BE AWAY ON SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to be gone, away"]
+  },
+  {
+    "id": "10",
+    "name": "TO BE DOWN ON SOMEONE OR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to be critical, to criticize, to be very demanding"]
+  },
+  {
+    "id": "11",
+    "name": "TO BE DOWN WITH AN ILLNESS",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to be sick with something"]
+  },
+  {
+    "id": "12",
+    "name": "TO BE FED UP WITH SOMEONE OR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to be angry, upset, frustrated"]
+  },
+  {
+    "id": "13",
+    "name": "FOR SOMEONE TO BE IN",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to be present, available"]
+  },
+  {
+    "id": "14",
+    "name": "FOR SOMETHING TO BE IN",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to be completed or finished and given to the person who needs it"]
+  },
+  {
+    "id": "15",
+    "name": "FOR SOMEONE TO BE IN ON SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to be part of something, to know what's happening"]
+  },
+  {
+    "id": "16",
+    "name": "FOR SOMEONE TO BLOW UP",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": [
+      "a thing to have too much air and explode",
+      "a person to become so angry that they yell at others, or are expressing their anger strongly and visibly"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "TO BLOW SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": [
+      "to put air in something",
+      "to make something explode"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "SOMEONE / SOMETHING TO BREAK DOWN",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": [
+      "a device or vehicle to stop working",
+      "a person become emotionally unstable, not able to function because of emotions or stress"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "TO BREAK SOMETHING DOWN",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to explain something easily and understandably, to clarify something by simplifying it"]
+  },
+  {
+    "id": "20",
+    "name": "TO BREAK IN / INTO SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to use force to enter something, to forcibly enter"]
+  },
+  {
+    "id": "21",
+    "name": "TO BREAK SOMETHING IN",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to start wearing something new and making it feel more comfortable. Because new clothes, especially shoes, often need to be worn a few times before they fit right"]
+  },
+  {
+    "id": "22",
+    "name": "FOR NEWS TO BREAK",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["for there to be new news, a new piece of important news"]
+  },
+  {
+    "id": "23",
+    "name": "TO BREAK LOOSE FROM SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to escape from something or someone, to flee, to get away"]
+  },
+  {
+    "id": "24",
+    "name": "TO BREAK THROUGH UP",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to make a lot of progress, to make significands advancements"]
+  },
+  {
+    "id": "25",
+    "name": "TO BREAK THROUGH SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to physically push or break through something"]
+  },
+  {
+    "id": "26",
+    "name": "TO BREAK SOMETHING OFF",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to separate something by force, to make into separate, individual pieces"]
+  },
+  {
+    "id": "27",
+    "name": "TO BREAK OFF A RELATIONSHIP",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to end a relationship"]
+  },
+  {
+    "id": "28",
+    "name": "FOR SOMETHING TO BREAK OUT",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["for something to happen very quickly and without warning"]
+  },
+  {
+    "id": "29",
+    "name": "TO BREAK OUT IN SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": [
+      "for your body to do a lot of something and quickly like sweating",
+      "for something like a rash or acne to appear all over your body"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "TO BREAK OUT OF A PLACE",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to escape, to flee, to get free - can be a physical place, or a bad feeling or mood"]
+  },
+  {
+    "id": "31",
+    "name": "TO BREAK UP WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to end a relationship with someone, to break it off"]
+  },
+  {
+    "id": "32",
+    "name": "TO BRING ABOUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to cause something to happen, to be reason for something happen"]
+  },
+  {
+    "id": "33",
+    "name": "TO BRING SOMEONE / SOMETHING ALONG",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to take someone / something with you, to go to a place with a thing or person"]
+  },
+  {
+    "id": "34",
+    "name": "TO BRING THE PRICE DOWN",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to lower a price, to make something cheaper"]
+  },
+  {
+    "id": "35",
+    "name": "(FOR SOMETHING) TO BRING SOMETHING ON",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to cause something to happen, to be the reason for something"]
+  },
+  {
+    "id": "36",
+    "name": "TO BRING IT ON",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to accept a challenge enthusiastically and confidently"]
+  },
+  {
+    "id": "37",
+    "name": "TO BRING UP A CHILD",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to raise a child, to nurture a child and help them grow by taking care of them"]
+  },
+  {
+    "id": "38",
+    "name": "TO BRING UP SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to mention something, to introduce a topic into a conversation"]
+  },
+  {
+    "id": "39",
+    "name": "TO BE BURNING UP",
+    "appropriateId": 0,
+    "chapterId": 1,
+    "meanings": ["to have a fever, to have a high temperature"]
+  },
+  {
+    "id": "40",
+    "name": "TO CALL AROUND",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to ask several people the same question over the telephone"]
+  },
+  {
+    "id": "41",
+    "name": "TO CALL SOMEONE BACK",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to return someone's call, to call someone after they called you"]
+  },
+  {
+    "id": "42",
+    "name": "TO CALL OFF SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to cancel something (like an event)"]
+  },
+  {
+    "id": "43",
+    "name": "TO CALL ON SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to pick or choose someone to answer a question or give a response",
+      "to use someone or something as support oe to help you"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "TO CALL SOMEONE UP",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to call someone"]
+  },
+  {
+    "id": "45",
+    "name": "TO CALM DOWN",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to relax, take it easy"]
+  },
+  {
+    "id": "46",
+    "name": "TO NOT CARE FOR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to not like something, not a fan of something"]
+  },
+  {
+    "id": "47",
+    "name": "TO CARRY SOMETHING OVER",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to transfer something to another time"]
+  },
+  {
+    "id": "48",
+    "name": "TO CATCH UP WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to talk to someone after a period of not communicating, to see what someone has been doing",
+      "to get closer closer to people who are in front of you, or to be where you should be after being behind"
+    ]
+  },
+  {
+    "id": "49",
+    "name": "TO CHANGE OVER",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to change from one thing to another"]
+  },
+  {
+    "id": "50",
+    "name": "TO CHECK IN/TO CHECK OUT",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to get your hotel keys, enter the hotel",
+      "to drop off your hotel keys, to leave the hotel"
+    ]
+  },
+  {
+    "id": "51",
+    "name": "TO CHECK OUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to research something, to find out the truth",
+      "to borrow something from a library, to check out a book"
+    ]
+  },
+  {
+    "id": "52",
+    "name": "TO CHECK SOMEONE OUT",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to try to sneakily look at a person's body that you are attracted to, you normally don't want other people to see you checking someone out"]
+  },
+  {
+    "id": "53",
+    "name": "CHECK IT OUT!",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["look, look at that"]
+  },
+  {
+    "id": "54",
+    "name": "TO CHECK UP ON SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to see  how someone is, see how someone is doing"]
+  },
+  {
+    "id": "55",
+    "name": "TO CHEER UP",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to get in a better mood, feel better; also to put someone else in a better mood"]
+  },
+  {
+    "id": "56",
+    "name": "TO CHEER SOMEONE ON",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to support someone or a team in a competition, to hope that someone wins"]
+  },
+  {
+    "id": "57",
+    "name": "TO CHIP IN FOR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to contribute with energy, resources or money in order to do or purchase something"]
+  },
+  {
+    "id": "58",
+    "name": "TO CLEAN UP",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to clean, to tidy up, to organize",
+      "to make yourself look good, nice, fancy"
+    ]
+  },
+  {
+    "id": "59",
+    "name": "TO COME ACROSS SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to find something by accident, find something, without looking"]
+  },
+  {
+    "id": "60",
+    "name": "TO COME ACROSS AS + ADJECTIVE AS A + NOUN",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to seem like something, what a person seems like or appears as"
+    ]
+  },
+  {
+    "id": "61",
+    "name": "TO COME APART",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["when the pieces of something separate"]
+  },
+  {
+    "id": "62",
+    "name": "TO COME DOWN WITH SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to get sick with something"]
+  },
+  {
+    "id": "63",
+    "name": "TO COME IN",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to enter a building, room, or space"]
+  },
+  {
+    "id": "64",
+    "name": "TO COME IN (FOR WORK)",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to go to work"]
+  },
+  {
+    "id": "65",
+    "name": "TO COME FORWARD",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to volunteer to do something",
+      "to give information about something"
+    ]
+  },
+  {
+    "id": "66",
+    "name": "TO COME UP WITH SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to think of an idea, to have an idea"]
+  },
+  {
+    "id": "67",
+    "name": "FOR SOMETHING TO COME UP",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "for something to be mentioned in conversation brought up, discussed",
+      "for something to happen without warning"
+    ]
+  },
+  {
+    "id": "68",
+    "name": "TO COUNT ON SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to rely on someone, depend on someone, trust someone"]
+  },
+  {
+    "id": "69",
+    "name": "TO CROSS OUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to draw a line through something"]
+  },
+  {
+    "id": "70",
+    "name": "TO CUT BACK ON SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to do less of something, consume less"]
+  },
+  {
+    "id": "71",
+    "name": "TO CUT SOMETHING DOWN",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to use a tool like a saw to make something hit the ground",
+      "(to cut down on something) to use less of something"
+    ]
+  },
+  {
+    "id": "72",
+    "name": "TO CUT IN",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": [
+      "to interrupt a conversation",
+      "(while driving) to turn in front of someone very closely",
+      "(in line) to not wait your turn, go in front of others"
+    ]
+  },
+  {
+    "id": "73",
+    "name": "TO CUT SOMEONE OFF",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to remove someone's supply, to not give someone any more of something"]
+  },
+  {
+    "id": "74",
+    "name": "TO CUT SOMETHING OFF",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to use sharp tool to remove a piece or part of something"]
+  },
+  {
+    "id": "75",
+    "name": "TO CUT OUT SOMETHING (FROM PAPER)",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["use scissors to remove a piece of paper"]
+  },
+  {
+    "id": "76",
+    "name": "CUT IT OUT!",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["stop it, stop being silly, knock it off"]
+  },
+  {
+    "id": "77",
+    "name": "TO CUT OUT",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to lose signal or connection when making a call, makes it really hard to understand someone during parts of the conversation"]
+  },
+  {
+    "id": "78",
+    "name": "TO CUT OUT FOOD",
+    "appropriateId": 0,
+    "chapterId": 2,
+    "meanings": ["to eliminate a specific food from your diet, stop eating it"]
+  },
+  {
+    "id": "79",
+    "name": "TO DIVIDE SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to put something into pieces so that it can be shared"]
+  },
+  {
+    "id": "80",
+    "name": "TO DO AWAY WITH SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to stop doing something, to make something become uncommon practice"]
+  },
+  {
+    "id": "81",
+    "name": "TO DO SOMETHING OVER",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to do something again, to try again, to attempt again to redo"]
+  },
+  {
+    "id": "82",
+    "name": "TO DRAW SOMETHING OUT",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to make something last longer, usually longer than it should"]
+  },
+  {
+    "id": "83",
+    "name": "TO DRESS UP",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to wear nice clothes, fancy clothes"]
+  },
+  {
+    "id": "84",
+    "name": "TO DRIVE UP THE PRICE",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to make more expensive, costlier"]
+  },
+  {
+    "id": "85",
+    "name": "TO DROP IN / TO DROP BY",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to visit someone for a short time, and with little notice or warning"]
+  },
+  {
+    "id": "86",
+    "name": "TO DROP SOMETHING/SOMEONE OFF",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to take someone or something to a place and leave them there"]
+  },
+  {
+    "id": "87",
+    "name": "(FOR SOMETHING) TO DROP OFF",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": ["to decrease, go down"]
+  },
+  {
+    "id": "88",
+    "name": "TO DROP OUT",
+    "appropriateId": 0,
+    "chapterId": 3,
+    "meanings": [
+      "to stop attending school",
+      "to quit a competition"
+    ]
+  },
+  {
+    "id": "89",
+    "name": "TO EAT OUT",
+    "appropriateId": 0,
+    "chapterId": 4,
+    "meanings": ["to eat at a restaurant"]
+  },
+  {
+    "id": "90",
+    "name": "TO END UP DOING SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 4,
+    "meanings": ["to decide to do something, to finally do something"]
+  },
+  {
+    "id": "91",
+    "name": "(FOR SOMETHING) TO FALL APART",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["for something to not happen, to not take place for whatever reason, often because of bad planning"]
+  },
+  {
+    "id": "92",
+    "name": "(FOR SOMEONE) TO FALL APART",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["for someone's life to become a mess, to lose control of their life, to become messy and disorganised"]
+  },
+  {
+    "id": "93",
+    "name": "TO FALL DOWN",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["for something to fall and hit the ground, to fall"]
+  },
+  {
+    "id": "94",
+    "name": "TO FALL BACK ON(TO) SOMETHING/SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to have something or someone in reserve, something for backup, support in case of emergencies"]
+  },
+  {
+    "id": "95",
+    "name": "TO FALL BEHIND",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": [
+      "if working on something, to not be where you need to be, to be going slow or progressing slower than you should be",
+      "(in competition) to become farther behind the leader"
+    ]
+  },
+  {
+    "id": "96",
+    "name": "TO FALL FOR SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to become attracted to someone, to fall in love with someone"]
+  },
+  {
+    "id": "97",
+    "name": "TO FALL INTO A CATEGORY",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to be classified a certain way, to be in a specific category"]
+  },
+  {
+    "id": "98",
+    "name": "(FOR SOMETHING) TO FALL OUT OF SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["for a thing to come lose or escape from an enclosed area"]
+  },
+  {
+    "id": "99",
+    "name": "(HAIR AND TEETH) TO FALL OUT",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to loose your hair and teeth"]
+  },
+  {
+    "id": "100",
+    "name": "(FOR SOMETHING) TO FALL OFF",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["for something to become detached from a surface and fall towards the ground"]
+  },
+  {
+    "id": "101",
+    "name": "TO FIGURE SOMETHING OUT",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to understand something, to discover something learn how something works"]
+  },
+  {
+    "id": "102",
+    "name": "TO FILL SOMETHING IN/OUT",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to write something in a space; complete a form"]
+  },
+  {
+    "id": "103",
+    "name": "TO FILL SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to fill a container, to make full (for example: fill a glass up with water)"]
+  },
+  {
+    "id": "104",
+    "name": "TO FIND SOMETHING OUT",
+    "appropriateId": 0,
+    "chapterId": 5,
+    "meanings": ["to discover something, to learn something that you didn't know before"]
+  },
+  {
+    "id": "105",
+    "name": "TO GET AN IDEA ACROSS",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to explain something, to make someone understand"]
+  },
+  {
+    "id": "106",
+    "name": "TO GET ALONG WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to enjoy someone's company, to have a good relationship with someone"]
+  },
+  {
+    "id": "107",
+    "name": "TO GET AROUND",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["how you move around a city, how you travel around where you live"]
+  },
+  {
+    "id": "108",
+    "name": "TO GET AROUND A PROBLEM",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["solve a problem or to avoid a problem"]
+  },
+  {
+    "id": "109",
+    "name": "(FOR SOMEONE) TO GET AROUND",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["for a person to have sex with lots of people"]
+  },
+  {
+    "id": "110",
+    "name": "GET AROUND TO SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to finally do something, to eventually do something"]
+  },
+  {
+    "id": "111",
+    "name": "TO GET AWAY",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to escape, to flee, avoid capture",
+      "to go on vacation"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "TO GET AWAY WITH SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to not get punished for doing something bad; to not be seen doing something"]
+  },
+  {
+    "id": "113",
+    "name": "TO GET BACK",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to return, to arrive back",
+      "to move backwards, give some space"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "TO GET SOMETHING BACK",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to have something returned to you, have something returned that you lent to someone else"]
+  },
+  {
+    "id": "115",
+    "name": "TO GET BACK AT SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to get revenge on someone, to get payback, to do something mean to someone because they did something mean to you"]
+  },
+  {
+    "id": "116",
+    "name": "TO GET BACK INTO SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to start doing something again, to do something (like a hobby) again after a long break from doing it"]
+  },
+  {
+    "id": "117",
+    "name": "TO GET ON WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to get along with someone, to have a good relationship with someone, to enjoy someone's company"]
+  },
+  {
+    "id": "118",
+    "name": "TO GET IN(TO) A VEHICLE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to step inside a vehicle, to enter"]
+  },
+  {
+    "id": "119",
+    "name": "TO GET IN",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to arrive or return home"]
+  },
+  {
+    "id": "120",
+    "name": "TO GET IVER AN ILLNESS",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to recover for an illness, feel better"]
+  },
+  {
+    "id": "121",
+    "name": "TO GET OVER SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["(after ending a relationship with someone) to forget about a person, to stop thinking about then and move on, to continue with your life"]
+  },
+  {
+    "id": "122",
+    "name": "TO GET TOGETHER WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to meet up with people for social reasons, to socialize"]
+  },
+  {
+    "id": "123",
+    "name": "TO GET UP / TO GET UP OUT OF BED",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to wake up, to get out of bed"]
+  },
+  {
+    "id": "124",
+    "name": "TO GET UP",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to stand up, to get on your feet"]
+  },
+  {
+    "id": "125",
+    "name": "TO GIVE AWAY INFORMATION",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to reveal information, to give information that was private previously"]
+  },
+  {
+    "id": "126",
+    "name": "TO GIVE SOMETHING AWAY",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to give something to some for free; often a bunch of free stuff to a large group of people"]
+  },
+  {
+    "id": "127",
+    "name": "TO GIVE AWAY THE BRIDE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["(for a weeding) when the father of the bride walks her down the aisle"]
+  },
+  {
+    "id": "128",
+    "name": "TO GIVE SOMETHING BACK",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to return something to its owner"]
+  },
+  {
+    "id": "129",
+    "name": "TO GIVE IN",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to reluctantly do something, to do something after not wanting to do it - often people need to convince you to do it"]
+  },
+  {
+    "id": "130",
+    "name": "TO GIVE OUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to give the same thing to many people"]
+  },
+  {
+    "id": "131",
+    "name": "TO GIVE UP SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to quit doing something, especially if it was something bad for you",
+      "to give up, accept failure"
+    ]
+  },
+  {
+    "id": "132",
+    "name": "TO GO AFTER SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to chase someone, to be trying to find someone, to be after someone"]
+  },
+  {
+    "id": "133",
+    "name": "TO GO AFTER A DREAM/GOAL",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to rey to accomplish something"]
+  },
+  {
+    "id": "134",
+    "name": "TO GO AGAINST SOMEONE/SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to complete against someone or a team",
+      "to be against, not like, to oppose someone or something"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "TO GO AHEAD",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to start something, to to something"]
+  },
+  {
+    "id": "136",
+    "name": "TO GO BACK",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to return"]
+  },
+  {
+    "id": "137",
+    "name": "TI GO OUT",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to leave the house to do something (go to a restaurant, cinema, watching something, etc.)"]
+  },
+  {
+    "id": "138",
+    "name": "TO GO OUT WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to be dating someone, to be in a relationship",
+      "to on a date with someone, to do something with someone you're attracted to"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "TO GO OVER SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to review something, check for errors",
+      "to review something, to discuss something"
+    ]
+  },
+  {
+    "id": "140",
+    "name": "TO GO OVER TO SOMEONE'S HOUSE",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to go to someone's house, to visit"]
+  },
+  {
+    "id": "141",
+    "name": "TO GO WITHOUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to not have something, to lack it, possibly suffer because you don't have it"]
+  },
+  {
+    "id": "142",
+    "name": "TO GROW APART",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to become distant from someone, start to have less in common and communicate less"]
+  },
+  {
+    "id": "143",
+    "name": "TO GROW SOMETHING BACK",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to grow something, for humans, this can be something like hair; for other animals this can be parts of their body or limbs"]
+  },
+  {
+    "id": "144",
+    "name": "TO GROW INTO SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": ["to get new clothes that are initially too large, but to continue to grow until they fit properly"]
+  },
+  {
+    "id": "145",
+    "name": "TO GROW OUT OF SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to become too large for your clothes",
+      "to become too old for doing something or for acting a certain way"
+    ]
+  },
+  {
+    "id": "146",
+    "name": "TO GROW UP",
+    "appropriateId": 0,
+    "chapterId": 6,
+    "meanings": [
+      "to get older, to age, become more mature",
+      "to grow up somewhere: you spend your childhood",
+      "common used to tell someone to act more mature to act more polite"
+    ]
+  },
+  {
+    "id": "147",
+    "name": "TOnHAND SOMETHING DOWN",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to give something used to someone, often a family helrlom"]
+  },
+  {
+    "id": "148",
+    "name": "TO HAND IN SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to turn in something, to submit something that is due, like homework or an assignment"]
+  },
+  {
+    "id": "149",
+    "name": "TO HAND SOMETHING OVER",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to give something to someone especially if you don't want to give it to them"]
+  },
+  {
+    "id": "150",
+    "name": "TO HANG IN THERE",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to keep trying, not give up"]
+  },
+  {
+    "id": "151",
+    "name": "TO HANG ON",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to wait, be patient"]
+  },
+  {
+    "id": "152",
+    "name": "TO HANG UP",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to end a phone call"]
+  },
+  {
+    "id": "153",
+    "name": "TO HOLD SOMEONE BACK",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to prevent someone from doing something, to stop someone, to hinder someone"]
+  },
+  {
+    "id": "154",
+    "name": "TO HOLD BACK EMOTIONS",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to not express your emotions, keep your emotions hidden and concealed"]
+  },
+  {
+    "id": "155",
+    "name": "TO HOLD ON",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to wait, to hang on"]
+  },
+  {
+    "id": "156",
+    "name": "TO HOLD ONTO SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to firmly hold by using your arms or hands"]
+  },
+  {
+    "id": "157",
+    "name": "HOLD UP",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["wait, stop, don't move"]
+  },
+  {
+    "id": "158",
+    "name": "TO HOLD SOMEONE UP",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": [
+      "to rob someone or a bank",
+      "for a problem to prevent someone from making progress, to cause difficulty"
+    ]
+  },
+  {
+    "id": "159",
+    "name": "TO HOLD SOMETHING UO",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to keep something lifted in the air"]
+  },
+  {
+    "id": "160",
+    "name": "TO BE HUNG UP ON SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 7,
+    "meanings": ["to be obsessed with something, not able to thing clearly because of it, and causes anxiety"]
+  },
+  {
+    "id": "161",
+    "name": "TO KEEP ON DOING SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 8,
+    "meanings": ["to continue doing something, to not stop"]
+  },
+  {
+    "id": "162",
+    "name": "TO KEEP SOMETHING FROM SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 8,
+    "meanings": ["to not tell someone something, keep secret"]
+  },
+  {
+    "id": "163",
+    "name": "TO KEEP SOMETHING OUT",
+    "appropriateId": 0,
+    "chapterId": 8,
+    "meanings": ["to not allow someone or something inside, to not allow something, to prohibit"]
+  },
+  {
+    "id": "164",
+    "name": "TO KEEP SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 8,
+    "meanings": ["to continue doing something, used to motivate"]
+  },
+  {
+    "id": "165",
+    "name": "TO LET SOMEONE DOWN",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to disappoint someone, to fail to do something for someone"]
+  },
+  {
+    "id": "166",
+    "name": "TO LET SOMEONE IN/INSIDE",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to allow someone to enter, to permit someone inside"]
+  },
+  {
+    "id": "167",
+    "name": "TO LOG IN/OUT",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to sign in or out of your account, to enter your password to access your account or profile or to close your account so no one else can access it"]
+  },
+  {
+    "id": "168",
+    "name": "TO LOOK AFTER SOMEONE / SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to watch someone or something, to protect, care for, watch over, take care of"]
+  },
+  {
+    "id": "169",
+    "name": "TO LOOK DOWN ON SOMETHING / SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to think that something is inferior, worse, to think you're better than someone or something, think that something is of low quality or character"]
+  },
+  {
+    "id": "170",
+    "name": "TO LOOK FOR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to search for something or someone, to try to find"]
+  },
+  {
+    "id": "171",
+    "name": "TO LOOK FORWARD TO SOMETHING / DOING SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to be excited for something, anxious"]
+  },
+  {
+    "id": "172",
+    "name": "TO LOOK INTO SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to research something, to get more information about something"]
+  },
+  {
+    "id": "173",
+    "name": "TO LOOK OUT FOR SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to pay special attention to someone, to watch over someone, to take care of someone, to protect someone"]
+  },
+  {
+    "id": "174",
+    "name": "TO LOOK OUT FOR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to keep an eye out for something or someone, to be looking or waiting for something / someone, to be vigilante"]
+  },
+  {
+    "id": "175",
+    "name": "TO LOOK SOMETHING OVE",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to look at something closely (especially for errors), to check something for mistakes"]
+  },
+  {
+    "id": "176",
+    "name": "TO LOOK SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": [
+      "to find a word in the dictionary",
+      "to research something, to get more information about something"
+    ]
+  },
+  {
+    "id": "177",
+    "name": "TO LOOK UP TO SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 9,
+    "meanings": ["to respect someone, to idolize someone, to want to be like someone because you like them"]
+  },
+  {
+    "id": "178",
+    "name": "TO MAKE OUT WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to kiss and touch someone"]
+  },
+  {
+    "id": "179",
+    "name": "TO MAKE SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to invent a story to create a story that's not true"]
+  },
+  {
+    "id": "180",
+    "name": "TO MAKE UP WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to apologize and fix your relationship with a loved one or friend, to move on"]
+  },
+  {
+    "id": "181",
+    "name": "TO MAKE SOMEONE / YOURSELF UP",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to put makeup on someone (eyeliner, mascara, blush, etc.)"]
+  },
+  {
+    "id": "182",
+    "name": "TO MAKE SOMEONE UP TO BE SOMETHING / LIKE SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to make someone seem a certain way based on how you talk about them or describe them"]
+  },
+  {
+    "id": "183",
+    "name": "TO MAKE UP AN EXAM",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to take an exam or test later than planned because you were absent, previously unable to take the test"]
+  },
+  {
+    "id": "184",
+    "name": "TO MIX SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to confuse two or more things, to mistake one thing for another"]
+  },
+  {
+    "id": "185",
+    "name": "TO MOVE ALONG",
+    "appropriateId": 0,
+    "chapterId": 10,
+    "meanings": ["to continue moving instead of stopping (especially to create more space for people)"]
+  },
+  {
+    "id": "186",
+    "name": "TO PASS AWAY",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["more polite way to say \"to die\""]
+  },
+  {
+    "id": "187",
+    "name": "TO PASS OUT",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to faint, to lose consciousness"]
+  },
+  {
+    "id": "188",
+    "name": "TO PASS OUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to give the same thing to many people to distribute something"]
+  },
+  {
+    "id": "189",
+    "name": "TO PASS OVER SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to skip, to not cover or discuss something in depth or at all (but possibly at a later time)"]
+  },
+  {
+    "id": "190",
+    "name": "TO PASS UP SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to decline something, to say no to something even though it's probably something good"]
+  },
+  {
+    "id": "191",
+    "name": "TO PAY SOMEONE BACK",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to repay someone, to give someone their money back after lending it to you"]
+  },
+  {
+    "id": "192",
+    "name": "TO PAY FOR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": [
+      "to purchase something, to spend the money yo get it",
+      "to face the consequences of doing something, get punished for doing something"
+    ]
+  },
+  {
+    "id": "193",
+    "name": "TO PICK OUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to choose something, to select it"]
+  },
+  {
+    "id": "194",
+    "name": "TO POINT SOMETHING / SOMEONE OUT",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to draw attention to something, to indicate something to highlight something"]
+  },
+  {
+    "id": "195",
+    "name": "TO PULL AWAY",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": [
+      "to gain in distance, create space between you and others in a competition",
+      "to increase a lead, get more points than another team",
+      "to get distance from someone, usually because of discomfort"
+    ]
+  },
+  {
+    "id": "196",
+    "name": "TO PULL FOR SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to support someone, to cheer for someone, to root for someone"]
+  },
+  {
+    "id": "197",
+    "name": "TO PULL IN",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to drive in to an enclosed space like a parking lot, parking space/spot, driveaway, or other place to put your vehicle"]
+  },
+  {
+    "id": "198",
+    "name": "TO PULL OFF SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to successfully do something, especially something challenging or difficult"]
+  },
+  {
+    "id": "199",
+    "name": "TO PULL OVER",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to stop your car by the side of the road, especially if told to do something by the police"]
+  },
+  {
+    "id": "200",
+    "name": "TO PULL THROUGH",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to recover from a serious illness, to regain your good health after suffering from very bad health"]
+  },
+  {
+    "id": "201",
+    "name": "TO PULL SOMETHING ACROSS",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to clearly communicate something, explain something well"]
+  },
+  {
+    "id": "202",
+    "name": "TO PUT ASIDE MONEY",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to save money, to put money in your bank or invest it"]
+  },
+  {
+    "id": "203",
+    "name": "TO PUT A GAME AWAY",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to be winning a game by someone much that it is nearly guaranteed that you will win, no chance to failure"]
+  },
+  {
+    "id": "204",
+    "name": "TO PUT SOMETHING BACK",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to return something to ils original space, put something where it was before, place something where it was before"]
+  },
+  {
+    "id": "205",
+    "name": "TO PUT SOMETHING DOWN",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to lower something closer to the ground or closer to a firm and stable surface to set in on"]
+  },
+  {
+    "id": "206",
+    "name": "TO PUT A CHILD TO BED",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to place a child in their bed so that they sleep, to put a child to sleep"]
+  },
+  {
+    "id": "207",
+    "name": "TO PUT SOMETHING OFF",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to not do something even though you should, to procrastinate, to do something later"]
+  },
+  {
+    "id": "208",
+    "name": "TO PUT OUT A FIRE",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": [
+      "to extinguish a fire, cause, cause a fire to die/go away",
+      "to solve or avoid the problem"
+    ]
+  },
+  {
+    "id": "209",
+    "name": "TO PUT OUT A PROBLEM",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to solve a problem or avoid it"]
+  },
+  {
+    "id": "210",
+    "name": "TO PUT SOMETHING TOGETHER",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": [
+      "to assemble something, connect the parts",
+      "to make plans, to organize something"
+    ]
+  },
+  {
+    "id": "211",
+    "name": "TO PUT UP WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to be able to tolerate someone but not really enjoy their company; to be able to stand someone enough not to hate them"]
+  },
+  {
+    "id": "212",
+    "name": "TO PUT ON SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 11,
+    "meanings": ["to put clothes on your body, to go dressed"]
+  },
+  {
+    "id": "213",
+    "name": "TO RUN INTO SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 12,
+    "meanings": ["to encounter / meet someone by chance not on purpose"]
+  },
+  {
+    "id": "214",
+    "name": "TO RUN OVER SOMETHING / SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 12,
+    "meanings": ["to drive over someone / something with your vehicle"]
+  },
+  {
+    "id": "215",
+    "name": "TO RUN OVER / THROUGH SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 12,
+    "meanings": ["to review something, to practice or rehearse"]
+  },
+  {
+    "id": "216",
+    "name": "TO RUN AWAY",
+    "appropriateId": 0,
+    "chapterId": 12,
+    "meanings": [
+      "to flee, to escape",
+      "for a child to leave home, either for serious like abuse, which can permanent, or because a young child is angry and will quickly return"
+    ]
+  },
+  {
+    "id": "217",
+    "name": "TO RUN OUT SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 12,
+    "meanings": ["to hope no more of something to be out of something"]
+  },
+  {
+    "id": "218",
+    "name": "TO SEND SOMETHING BACK",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to return something"]
+  },
+  {
+    "id": "219",
+    "name": "TO SET SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to organize something, plan and prepare"]
+  },
+  {
+    "id": "220",
+    "name": "TO SET SOMEONE UP FOR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to make it seem like someone did something bad to make it seem like someone committed a crime - even though they didn't do it!"]
+  },
+  {
+    "id": "221",
+    "name": "TO SET SOMEONE UP WITH SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to introduce two people for the purposes of them starting a relationship"]
+  },
+  {
+    "id": "222",
+    "name": "TO SHOP AROUND",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to go to several stores in order to find the best, cheapest price"]
+  },
+  {
+    "id": "223",
+    "name": "TO SHOW OFF",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to boast, to brag about something you have or something you can do, to act annoyingly because you want people to see what you have or can do"]
+  },
+  {
+    "id": "224",
+    "name": "TO SLEEP OVER",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to sleep at someone else's house, to spend the night at house that's not yours"]
+  },
+  {
+    "id": "225",
+    "name": "TO SORT SOMETHING OUT",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to fix something"]
+  },
+  {
+    "id": "226",
+    "name": "TO SORT SOMEONE OUT",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to make someone realize the consequences of their actions, to bring someone down to Earth, to discipline someone"]
+  },
+  {
+    "id": "227",
+    "name": "TO STICK TO/WITH SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to continue doing something even if it;s difficult"]
+  },
+  {
+    "id": "228",
+    "name": "TO SWITCH ON/OFF SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 13,
+    "meanings": ["to turn something on or off, to turn on or off the flow of electricity to make an electronic function properly"]
+  },
+  {
+    "id": "229",
+    "name": "TO TAKE AFTER SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": [
+      "to have a similar physical appearance as someone you're related to (mom, dad, etc.)",
+      "to have a similar personality as someone"
+    ]
+  },
+  {
+    "id": "230",
+    "name": "TO TAKE SOMETHING APART",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to disassemble something, to put it into pieces"]
+  },
+  {
+    "id": "231",
+    "name": "TO TAKE SOMETHING BACK",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to return something to where you got it from"]
+  },
+  {
+    "id": "232",
+    "name": "TO TAKE BACK AN INSULT",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to apologize for something you said, to say that you did not mean what you said"]
+  },
+  {
+    "id": "233",
+    "name": "TO TAKE OFF",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": [
+      "for a plane to leave the ground",
+      "for a new business to be doing very well",
+      "for a person to leave quickly, in a hungry"
+    ]
+  },
+  {
+    "id": "234",
+    "name": "TO TAKE OFF WORK",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to remove a piece of clothing or an accessory from your body"]
+  },
+  {
+    "id": "235",
+    "name": "TO TAKE OUT THE GARBAGE",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to bring the garbage outside so that it can be collected by the city"]
+  },
+  {
+    "id": "236",
+    "name": "TO TAKE OUT A PET",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to bring a pet outside, usually a dog, so that it can poop and pee"]
+  },
+  {
+    "id": "237",
+    "name": "TO TAKE SOMEONE OUT FOR SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to treat someone to a night out, to invite someone to do something and pay for it"]
+  },
+  {
+    "id": "238",
+    "name": "TO TEAR SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to rip something into smaller pieces (mostly paper, but also can be fabric or other things that you can rip with your hands)"]
+  },
+  {
+    "id": "239",
+    "name": "TO THINK BACK ON SOMETHING",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to think about something from the past, to reflect on something, to recollect"]
+  },
+  {
+    "id": "240",
+    "name": "TO THINK SOMETHING OVER",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to really think about something, to think about the pros and cons of something, to consider something with lots of thought"]
+  },
+  {
+    "id": "241",
+    "name": "TO THROW SOMETHING AWAY",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to dispose of something, toss away, put in the garbage"]
+  },
+  {
+    "id": "242",
+    "name": "TO TURN SOMETHING DOWN",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to decline something, to say no to something (even though it's often something good)"]
+  },
+  {
+    "id": "243",
+    "name": "TO TURN DOWN THE VOLUME",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to to decrease the volume, less loud"]
+  },
+  {
+    "id": "244",
+    "name": "TO TURN SOMETHING ON/OFF",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to switch something on/off, to connect of disconnect the flow of electricity to a device"]
+  },
+  {
+    "id": "245",
+    "name": "TO TURN UP THE VOLUME",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to increase the volume, increase the loudness"]
+  },
+  {
+    "id": "246",
+    "name": "TO TURN UP",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": [
+      "(in a competition) for a person to turn up means to perform well, to do a good job, to play a compete well",
+      "(for an event) for a person to turn up means to arrive, to attend the event"
+    ]
+  },
+  {
+    "id": "247",
+    "name": "SOMETHING TO TURN UP",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["for something to appear unexpectedly, to find something by chance"]
+  },
+  {
+    "id": "248",
+    "name": "TO TRY SOMETHING ON",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to put on a piece of clothes to see how it fits, to see if you like how it looks on you or if it's a good size"]
+  },
+  {
+    "id": "249",
+    "name": "TO TRY SOMETHING OUT",
+    "appropriateId": 0,
+    "chapterId": 14,
+    "meanings": ["to test something, to experiment with something to see how it works, or if you like it"]
+  },
+  {
+    "id": "250",
+    "name": "TO USE SOMETHING UP",
+    "appropriateId": 0,
+    "chapterId": 15,
+    "meanings": ["to use all of something to have no more left"]
+  },
+  {
+    "id": "251",
+    "name": "TO WAKE UP",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": [
+      "to get out of bed, to stop sleeping",
+      "(command) pay attention, be alert"
+    ]
+  },
+  {
+    "id": "252",
+    "name": "TO WARM FOOD UP",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["to make food warm again so it's more enjoyable to eat, usually we warm up leftovers (the food we didn't finish, and saved for later)"]
+  },
+  {
+    "id": "253",
+    "name": "TO WARM UP",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["to stretch and prepare your body for exercises or competition so that you're less likely to get injured"]
+  },
+  {
+    "id": "254",
+    "name": "TO WARM UP TO SOMEONE",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["the process of becoming closer friends with someone, to begin liking someone more, to start to be more comfortable wit someone"]
+  },
+  {
+    "id": "255",
+    "name": "TO WEAR OFF",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["for the effects of something to decrease, for something to become less noticeable, to fade away"]
+  },
+  {
+    "id": "256",
+    "name": "FOR SOMETHING TO WORK",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["to operate, to function properly"]
+  },
+  {
+    "id": "257",
+    "name": "TO WORK OUT",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["to exercise, to go to the gym"]
+  },
+  {
+    "id": "258",
+    "name": "FOR SOMETHING TO WORK OUT",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["for something to go well, to be a success"]
+  },
+  {
+    "id": "259",
+    "name": "TO WORK OUT A PROBLEM",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["to try to fix something, to attempt to solve a difficulty"]
+  },
+  {
+    "id": "270",
+    "name": "TO WORK SOMETHING OUT",
+    "appropriateId": 0,
+    "chapterId": 16,
+    "meanings": ["to resolve a disagreement or dispute to end an argument"]
+  }
+]
