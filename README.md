@@ -18,14 +18,8 @@ In the project directory, you can run:
 
 ### `yarn eject`
 
-### `yarn storybook`
-
-### `yarn build-storybook`
-
 ### `yarn build-sw`
 
 ## TODO
 - README.md
-- stories for component
 - husky
-- cleaning in dev/dependencies
