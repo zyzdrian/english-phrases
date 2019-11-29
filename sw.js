@@ -151,7 +151,7 @@ if ('function' === typeof importScripts) {
 ]);
 
         /* custom cache rules*/
-        workbox.routing.registerNavigationRoute('/index.html', {
+        workbox.routing.registerNavigationRoute('/english-phrases/index.html', {
             blacklist: [/^\/_/, /\/[^\/]+\.[^\/]+$/]
         });
     } else {
