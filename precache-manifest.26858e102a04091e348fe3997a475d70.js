@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "54e54b936ae1c02209f97f1c4039f6cb",
+    "revision": "87e3a63207c600176caee774f74ba52f",
     "url": "/english-phrases/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/english-phrases/static/js/2.3c156e18.chunk.js"
   },
   {
-    "revision": "70f28c485641273876fa",
-    "url": "/english-phrases/static/js/main.599d0cf3.chunk.js"
+    "revision": "2baf1fbfe5bac0fe3732",
+    "url": "/english-phrases/static/js/main.28eab16c.chunk.js"
   },
   {
     "revision": "a51d67b46af50757dbda",
