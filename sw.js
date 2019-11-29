@@ -118,7 +118,7 @@ if ('function' === typeof importScripts) {
   },
   {
     "url": "manifest.json",
-    "revision": "3814a2bd6caa6d932a85302dabe87ee8"
+    "revision": "1700e7fa9f794552623e105869286110"
   },
   {
     "url": "precache-manifest.dde614a3326c604f7009b37717fec3d0.js",

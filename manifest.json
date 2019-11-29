@@ -3,22 +3,22 @@
   "name": "English Phrases",
   "icons": [
     {
-      "src": "favicons/favicon.ico",
+      "src": "/english-phrases/favicons/favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "/english-phrases/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "/english-phrases/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": "/english-phrases/?utm_source=homescreen",
   "display": "standalone",
   "theme_color": "#8919e0",
   "background_color": "#8919e0"
